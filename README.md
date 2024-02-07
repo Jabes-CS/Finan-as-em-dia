@@ -1,0 +1,5 @@
+| **Projeto** | _Finanças em Dia_ |
+| --- | --- |
+| **Status** | `Em desenvolvimento` |
+| **Objetivo** | Tenho como objetivo desenvolver um site/Aplicativo que ajude as pessoas com controle de suas finanças! Sendo assim, funcionará da seguinte forma, o usuário informa qual o valor de seu salário e quanto ele tem de limite de crédito, com isso de vez o site informá-lo que atingiu o saldo disponível de crédito, ele informará que o valor gasto no mês está chegando perto ou já passou do salário, assim ele conseguirá pagar a conta do mês sem se endividar com o banco. Terá também uma funcionalidade que o usuário vai adicionando seus gastos, assim o sistema irá dando retorno e sugestões de como melhorar sua administração financeira, dando também sugestão de investimentos para que o usuário possa ter uma boa experiência e posso ainda assim ter uma quantia de dinheiro investido. |
+| _Observação_ | Estou iniciando o desenvolvimento em Python. Estou aplicando a lógica para aí, sim, ir estruturando o sistema... Aceito dicas e sugestões para o desenvolvimento do sistema. |
