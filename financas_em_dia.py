@@ -5,7 +5,8 @@ def main():
     compras = 0
     valores_gastos_no_mes = 0
 
-    print("O total de gastos até o momento está no valor de R${}".format(valores_gastos_no_mes))
+    print("O total de gastos até o momento está no valor de R${}".format(valores_gastos_no_mes)) #essa linha de código será usada quando 
+    #tiver o banco de dados e sempre que a pessoa entrar no siste/app ela conseguirá ver todas as informções salvas.
 
     while valores_gastos_no_mes <= salario:
         compras = float(input("Digite o valor da compra: \n"))

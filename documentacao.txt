@@ -1,0 +1,27 @@
+Receber valor de quanto o usuário recebe de salário:
+    - A cada virada de mês no início do primeiro dia últio aparecer ícone para o usuário se ele recebeu o salário
+Receber valor de quanto o usuário tem de crédito (pode adicionar essa função de acordo com a quantidade de cartão que ele tiver):
+    - Ter um ícone de fatura paga, para todas as vezes que o usuário pagar a fatura adiantada ou não ele realizar toda a operação necessária.
+
+
+            -> GASTOS DIÁRIOS, SEMANAIS, MENSAis <-
+
+Adicionar uma função na qual o usuário consiga adicionar todos os gastos que ele tiver, ou que ele venha a ter...
+Valores gastos no débito:
+    - Verificar se tem valor correspondente na conta:
+        - se não tiver, emitir erro de saldo insuficiente...
+    - Subitrair o valor da conta para ser realizado o pagamento:
+        - atualizar o valor da conta a cada compra realizada.
+    - Armazenar todos os gastos no espaço (gastos débito) podendo ser acessado pelo usuário toda vez que quiser;
+
+Valores gastos no crédito:
+    - Verificar se tem saldo correspondente no cartão de crédito para poder efetuar a compra;
+    - Precisa saber quantas vezes/pacelas foram feitas;
+    - Dividir o valor na quantidade de parcelas;
+    - Distribuir por igual as parcelas nos meses correspondentes:
+        - ex: 3x (Janeiro, Fevereiro, Março)
+    - A compra sendo feita, precisa subitrair o valor do crédito;
+    - Armazenar todos os gastos no espaço (fatura do cartão de crédito), (mostrar saldo restante e quantos já foram gastos);
+
+
+    
